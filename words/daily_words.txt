@@ -27,6 +27,7 @@ demolish
 disgusting
 disused – অব্যবহৃত
 differs
+devise - পরিকল্পনা করা
 
 exhibition
 exterior – বাহ্যিক
@@ -61,6 +62,7 @@ notorious – কুখ্যাত
 opportunity
 
 patient
+patience
 pedestrians – পথচারীদের
 perhaps – সম্ভবত
 perseverance
@@ -73,6 +75,7 @@ rehabilitation – পুনর্বাসন
 recovery
 rewilding
 route
+rickshaw
 
 shoulder
 stationery
@@ -89,3 +92,4 @@ usually
 
 vitamins
 visualize
+vehicles
