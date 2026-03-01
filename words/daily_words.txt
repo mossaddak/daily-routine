@@ -1,17 +1,20 @@
 absolute
 accompanied – অনুষঙ্গী
-accomplished
+accomplished - সম্পন্ন
 aid – সাহায্য
 appliance
+apology
 apologies
 athletes
 asthma
 assume – অনুমান
 
+camels - উট
 chocolate
 closely
 circular
-colleagues
+colleague
+convenience
 comets – ধূমকেতু
 concentration
 constant
@@ -20,6 +23,7 @@ crucial
 culture
 curricular
 
+decision
 descended – বিভ্রান্তিতে
 descendent
 disappear – অদৃশ্য
@@ -30,6 +34,7 @@ disused – অব্যবহৃত
 differs
 devise - পরিকল্পনা করা
 
+emissions
 exhibition
 exterior – বাহ্যিক
 
@@ -39,6 +44,8 @@ flute – বাঁশি
 fountain – ঝর্ণা
 freak – পাগল
 frustration
+
+genealogy
 
 haloes – জ্যোতিশ্চক্র
 harbour - বন্দর
@@ -72,6 +79,10 @@ perhaps – সম্ভবত
 perseverance
 pursue – অনুসরণ করা
 psychology
+pour
+posts - pillar
+poisonic
+poisonous
 
 reasoning – যুক্তি
 renovation
@@ -81,6 +92,7 @@ rewilding
 route
 rickshaw
 
+shafts - খাদ
 shoulder
 stationery
 stimulating/exciting
@@ -100,3 +112,5 @@ visualize
 vehicles
 
 westward - পশ্চিমমুখী
+weather
+wear
