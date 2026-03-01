@@ -37,6 +37,8 @@ devise - পরিকল্পনা করা
 emissions
 exhibition
 exterior – বাহ্যিক
+expand - প্রসারিত - extend
+extreme
 
 favorite
 festivals
@@ -46,6 +48,7 @@ freak – পাগল
 frustration
 
 genealogy
+gradually
 
 haloes – জ্যোতিশ্চক্র
 harbour - বন্দর
