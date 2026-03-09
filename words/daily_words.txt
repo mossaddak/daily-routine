@@ -1,6 +1,7 @@
 absolute
 accompanied – অনুষঙ্গী
 accomplished - সম্পন্ন
+afield - দূরে
 aid – সাহায্য
 appliance
 apology
@@ -9,7 +10,7 @@ athletes
 asthma
 assume – অনুমান
 
-camels - উট
+camel - উট
 chocolate
 closely
 circular
@@ -17,9 +18,13 @@ colleague
 convenience
 comets – ধূমকেতু
 concentration
+concentrate
 constant
 consistent
+consultation
+consultancy
 collaborate
+collaboration
 crucial
 culture
 curricular
@@ -44,6 +49,7 @@ extreme
 
 favorite
 festivals
+fences - বেড়া
 flute – বাঁশি
 fountain – ঝর্ণা
 freak – পাগল
@@ -56,6 +62,7 @@ haloes – জ্যোতিশ্চক্র
 harbour - বন্দর
 harvesting - ফসল কাটা
 helmet
+helicopter
 
 improvise - উন্নতি করা
 Inclusion – অন্তর্ভুক্তি
@@ -90,6 +97,7 @@ pour
 posts - pillar
 poisonic
 poisonous
+pollution
 
 reasoning – যুক্তি
 renovation
@@ -106,6 +114,8 @@ stimulating/exciting
 storms – ঝড়
 scientist
 symbol
+supermarket
+suffocation
 
 tennis
 teenager
