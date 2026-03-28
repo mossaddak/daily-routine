@@ -11,6 +11,7 @@ asthma
 assume – অনুমান
 
 camel - উট
+challenge
 chocolate
 closely
 circular
@@ -70,11 +71,14 @@ inhabitants – বাসিন্দাদের
 indeed – প্রকৃতপক্ষে
 intends – ইচ্ছা করে
 intuition – অন্তর্দৃষ্টি
+incredible
 
 knee
 
 language
 lush forest – সবুজ বন
+litter - আবর্জনা
+litre
 
 magnificent
 monopoly – একচেটিয়া
@@ -98,14 +102,17 @@ posts - pillar
 poisonic
 poisonous
 pollution
+prospective
 
 reasoning – যুক্তি
+reasonable
 renovation
 rehabilitation – পুনর্বাসন
 recovery
 rewilding
 route
 rickshaw
+resemble
 
 shafts - খাদ
 shoulder
@@ -128,6 +135,7 @@ usually
 vitamins
 visualize
 vehicles
+vegetable
 
 westward - পশ্চিমমুখী
 weather
