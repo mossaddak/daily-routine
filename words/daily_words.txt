@@ -10,6 +10,7 @@ athletes
 asthma
 assume – অনুমান
 appropriate
+anticipate - অনুমান করা
 
 camel - উট
 challenge
@@ -17,6 +18,7 @@ chocolate
 closely
 circular
 colleague
+coin - মুদ্রা, বানান - make
 convenience
 comets – ধূমকেতু
 concentration
@@ -27,6 +29,7 @@ consultation
 consultancy
 collaborate
 collaboration
+cope - মোকাবেলা
 crucial
 culture
 curricular
@@ -42,6 +45,7 @@ distinguish
 disused – অব্যবহৃত
 differs
 devise - পরিকল্পনা করা
+devised - উদ্ভাবিত
 
 emissions
 exhibition
@@ -50,6 +54,8 @@ emerge - আবির্ভূত
 expand - প্রসারিত - extend
 extreme
 extinct
+extent - পরিমাপ
+estrangement - বিচ্ছিন্নতা
 
 favorite
 festivals
@@ -69,6 +75,7 @@ harbour - বন্দর
 harvesting - ফসল কাটা
 helmet
 helicopter
+heredity - বংশগতি
 
 improvise - উন্নতি করা
 Inclusion – অন্তর্ভুক্তি
@@ -93,6 +100,7 @@ meticulous
 mammals
 
 notorious – কুখ্যাত
+nurture - লালনপালন
 
 opportunity
 
@@ -119,6 +127,7 @@ rewilding
 route
 rickshaw
 resemble
+Reared - প্রতিপালিত
 
 shafts - খাদ
 shoulder
@@ -129,6 +138,7 @@ scientist
 symbol
 supermarket
 suffocation
+subtle - সূক্ষ্ম - চতুর
 
 tennis
 teenager
