@@ -10,6 +10,7 @@ athletes
 asthma
 assume – অনুমান
 appropriate
+atmosphere
 
 camel - উট
 challenge
@@ -41,6 +42,7 @@ disgusting
 distinguish
 disused – অব্যবহৃত
 differs
+dissatisfied
 devise - পরিকল্পনা করা
 
 emissions
@@ -75,8 +77,10 @@ Inclusion – অন্তর্ভুক্তি
 inhabitants – বাসিন্দাদের
 indeed – প্রকৃতপক্ষে
 intends – ইচ্ছা করে
+interrupt
 intuition – অন্তর্দৃষ্টি
 incredible
+illiterate
 
 knee
 
@@ -91,8 +95,11 @@ mountains
 museum
 meticulous
 mammals
+mushrooms
 
 notorious – কুখ্যাত
+neutral
+nutrition
 
 opportunity
 
@@ -115,6 +122,7 @@ reasonable
 renovation
 rehabilitation – পুনর্বাসন
 recovery
+recycle
 rewilding
 route
 rickshaw
